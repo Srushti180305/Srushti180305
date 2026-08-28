@@ -53,7 +53,8 @@ I’m a **Computer Science Engineering graduate** interested in **Java Full Stac
 
 A backend application developed using **Java, Spring Boot, Hibernate/JPA, and MySQL** to implement banking-related operations through REST APIs.
 
-### 🎞️ Movie Ticket Booking System
+### 🎞️ CineFlow
+
 
 A full-stack web application built using **Java, Spring Boot, Thyemeleaf, and MySQL** for managing movies, users, and ticket bookings.
 
