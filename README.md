@@ -1,32 +1,86 @@
-🚀 About Me
-I’m a Java Backend Developer specializing in building scalable and secure web applications using Spring Boot and Microservices Architecture. With a strong foundation in backend development, I am continuously improving my skills in Spring Security, DevOps, and distributed systems.
+# Hi, I'm Srushti Lingashettar
 
-🔭 Currently Learning: Microservices, Spring Security, Docker, Kubernetes, Kafka, Redis
-💡 Interested in: Scalable architectures, API security, cloud-native applications
-💬 Ask Me About: Java, Spring Boot, Spring Security, Microservices, REST APIs
-📫 How to Reach Me: saishkulkarni7@gmail.com
-🛠️ Skills & Technologies
-Backend Development
-Java (Core & Advanced)
-Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)
-Microservices Architecture (REST APIs, Service Communication)
-Hibernate & JPA
-API Security (OAuth2, JWT, Role-Based Access Control)
-Databases
-MySQL
-PostgreSQL
-DevOps & Cloud
-Containerization & Orchestration: Docker, Kubernetes (Learning)
-Message Queues & Caching: Kafka, Redis (Learning)
-CI/CD & Automation: GitHub Actions (Exploring)
-Cloud Platforms: AWS Basics
-Tools & Other Technologies
-Git & GitHub
-Postman (API Testing)
-HTML, CSS
-🔗 Connect with Me
-LinkedIn Instagram
+### Java Full Stack Developer | Computer Science Engineering Graduate
 
-💡 I enjoy solving complex backend challenges, playing chess, and exploring new technologies in cloud and DevOps.
+## 👩‍💻 About Me
 
-📌 Let's build something amazing together! 🚀
+I’m a **Computer Science Engineering graduate** interested in **Java Full Stack Development**. I enjoy building web applications using **Java, Spring Boot, React.js, and MySQL** and continuously improving my problem-solving and development skills.
+
+* 📌 **Currently Learning:** React.js, Spring Security, JWT, and Data Structures & Algorithms
+* 🧩 **Interested In:** Full-stack development, backend development, REST APIs, and real-world applications
+* 🗣️ **Ask Me About:** Java, Spring Boot, Hibernate, REST APIs, React.js, and MySQL
+* 📈 **Currently Improving:** Java, Spring Boot, React.js, SQL, and problem-solving
+* 🔎 **Looking For:** Entry-level opportunities as a **Java Full Stack Developer**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### ⚙️ Backend Development
+
+* **Java** – Core Java, OOPs, Collections
+* **Spring Framework** – Spring Boot, Spring MVC, Spring Data JPA
+* **Hibernate & JPA**
+* **REST APIs**
+* **JDBC**
+* **Spring Security & JWT** – Learning
+
+### 🖥️ Frontend Development
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+
+### 🗃️ Database
+
+* MySQL
+* SQL
+
+### 🔧 Tools & Technologies
+
+* Git & GitHub
+* Maven
+* Postman
+* Eclipse
+* VS Code
+
+---
+
+## 📂 Projects
+
+### 🏦 Bank Management System
+
+A backend application developed using **Java, Spring Boot, Hibernate/JPA, and MySQL** to implement banking-related operations through REST APIs.
+
+### 🎞️ Movie Ticket Booking System
+
+A full-stack web application built using **Java, Spring Boot, React.js, and MySQL** for managing movies, users, and ticket bookings.
+
+### 🏘️ Society Management System
+
+A **Spring Boot and MySQL** based application designed to manage society-related operations.
+
+---
+
+## 📖 Currently Learning
+
+* Advanced Spring Boot
+* Spring Security & JWT
+* React.js
+* Data Structures & Algorithms
+* REST API development
+* Full Stack Application Development
+
+---
+
+## 🔗 Connect With Me
+
+* 💼 **LinkedIn:** [Add your LinkedIn profile]
+* 🐙 **GitHub:** [Add your GitHub profile]
+
+---
+
+📝 I enjoy learning new technologies, building projects, and improving my development skills step by step.
+
+**Open to learning, building, and growing as a Java Full Stack Developer.**
