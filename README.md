@@ -55,13 +55,8 @@ A backend application developed using **Java, Spring Boot, Hibernate/JPA, and My
 
 ### 🎞️ Movie Ticket Booking System
 
-A full-stack web application built using **Java, Spring Boot, React.js, and MySQL** for managing movies, users, and ticket bookings.
+A full-stack web application built using **Java, Spring Boot, Thyemeleaf, and MySQL** for managing movies, users, and ticket bookings.
 
-### 🏘️ Society Management System
-
-A **Spring Boot and MySQL** based application designed to manage society-related operations.
-
----
 
 ## 📖 Currently Learning
 
@@ -71,13 +66,14 @@ A **Spring Boot and MySQL** based application designed to manage society-related
 * Data Structures & Algorithms
 * REST API development
 * Full Stack Application Development
+* Microsevices
 
 ---
 
 ## 🔗 Connect With Me
 
-* 💼 **LinkedIn:** [Add your LinkedIn profile]
-* 🐙 **GitHub:** [Add your GitHub profile]
+* 💼 **LinkedIn:** [www.linkedin.com/in/srushti-lingashettar-941002280]
+
 
 ---
 
