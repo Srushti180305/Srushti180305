@@ -1,6 +1,6 @@
 # Hi, I'm Srushti Lingashettar
 
-### Java Full Stack Developer | Computer Science Engineering Graduate
+### Java Full Stack Developer Intern/Trainee | Computer Science Engineering Graduate
 
 ## 👩‍💻 About Me
 
